@@ -1,0 +1,12 @@
+body {
+  color: red;
+}
+
+h1 {
+  color: #00ff00;
+}
+
+p.ex {
+  color: rgb(0,0,255);
+  font-family: "Comic Sans MS", cursive;
+}
